@@ -1,0 +1,8 @@
+print('My name is santhosh')
+print("We'er going to pheonix")
+print('He said "Hi.."')
+print('we\'er going to the store')
+print('Hi'+'you')
+print('Hi '+'you')
+print('Hi','you')
+print('Hi '+str(5))
